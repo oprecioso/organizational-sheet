@@ -2,6 +2,8 @@
 ℹ️ Projeto criado para curso: CAIXA - IA Generativa com Microsoft Copilot, oferecido pela plataforma da [DIO](https://dio.me)
 
 A planilha criada serve como base de dados para alimentar a I.A. e conseguir através dela gerar insights sobre os dados contidos no documento.
+
+para ver a planilha <a href="https://github.com/oprecioso/organizational-sheet/blob/main/output/Planilha%20m%C3%A1quinas%20de%20reparo.xlsx" title="View PDF now">baixe aqui</a>
 <br/><br/>
 ## 👨‍💻 Expert
 
